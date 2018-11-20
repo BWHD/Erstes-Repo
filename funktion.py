@@ -13,6 +13,7 @@ class Auto:
 auto1 = Auto(4, "rot", "Audi")
 auto2 = Auto(4, "blau", "BMW")
 auto3 = Auto(4, "gruen", "Tesla")
+auto4 = Auto(4, "grau", "Tesla")
 
 print(auto1.hersteller)
 print(auto2.farbe)
